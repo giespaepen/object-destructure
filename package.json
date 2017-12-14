@@ -1,0 +1,22 @@
+{
+  "name": "object-destructure",
+  "version": "1.0.0",
+  "description": "Destructure an object into another smaller object",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "object",
+    "destructuring"
+  ],
+  "author": "Gie Spaepen <giespaepen@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
