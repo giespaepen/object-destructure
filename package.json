@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Destructure an object into another smaller object",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "lint": "eslint index.js"
   },
   "keywords": [
     "object",
